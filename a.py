@@ -1,11 +1,11 @@
 print("Hi.....!!!! Welcome to Secret Message Portal..<3")
-print("We have options for you:")
+print("we have options for you:")
 print("Simple coding-c")
 print("Simple Decoding-d")
 print("Name Fun-n")
 print("Funny Msg-f")
 print("Letter-l")
-l=input("we have options for you-")
+l=input("choose your option-")
 
 
 def code():
